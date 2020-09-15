@@ -6,7 +6,7 @@ $GLOBALS['config']= array(
         'host' => '127.0.0.1',
         'db' => 'postgres',
         'username' => 'postgres',
-        'password' => 'JC2GTA4a',
+        'password' => '123456',
         'port' => 5432
 
     ),
